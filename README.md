@@ -1,6 +1,6 @@
 # Projet_3_udacity 
 # Jeu de Données sur les prets de Prosper
-## by Ousseynou Diop
+
 
 
 ## Dataset
